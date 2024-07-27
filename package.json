@@ -1,0 +1,28 @@
+{
+  "name": "poo-typescript",
+  "version": "1.0.0",
+  "description": "Este é um projeto academico para aprender poo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "paradigma",
+    "orientado",
+    "objeto",
+    "poo",
+    "acadêmico",
+    "ifs",
+    "progamação",
+    "II"
+  ],
+  "author": "Cleilson Alvino",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "sucrase": "^3.35.0",
+    "typescript": "^5.5.3"
+  }
+}
