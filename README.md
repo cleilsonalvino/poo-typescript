@@ -1,0 +1,1 @@
+Projeto de Aprendizado em Orientação a Objetos Este repositório contém um projeto desenvolvido para aprender os conceitos de orientação a objetos, como parte do segundo período do curso ministrado pelo professor Diego Armando no Instituto Federal de Sergipe (IFS).
